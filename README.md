@@ -91,3 +91,7 @@ python main.py <rosbag_path>
   <img src="https://github.com/user-attachments/assets/a7114cc3-9dea-45ce-ad2f-d9d72b1c3867"/>
 </div>
 <br>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md), which means you are free to use, modify, and distribute the project's source code and documentation for both commercial and non-commercial purposes.
