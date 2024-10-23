@@ -1,0 +1,3 @@
+__pycache__/
+.venv/
+/map_generator/*.html
